@@ -1,6 +1,6 @@
 {
   "name": "@adobe/git-server",
-  "version": "0.9.6-pre.0",
+  "version": "0.9.6-pre.1",
   "description": "serve a git repository over http(s)",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "morgan": "^1.9.1",
     "nodegit": "^0.22.2",
     "pem": "^1.13.1",
-    "snyk": "^1.95.3",
+    "snyk": "^1.99.0",
     "winston": "^3.1.0"
   },
   "devDependencies": {
