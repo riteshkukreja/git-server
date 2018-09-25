@@ -1,5 +1,9 @@
 # git-server
 
+**NOTE: This branch uses the original nodegit and not the adobe fork. Use this if you have problems
+compiling the forked one.*** 
+
+
 ## Status
 [![codecov](https://img.shields.io/codecov/c/github/adobe/git-server.svg)](https://codecov.io/gh/adobe/git-server)
 [![CircleCI](https://img.shields.io/circleci/project/github/adobe/git-server.svg)](https://circleci.com/gh/adobe/git-server)
